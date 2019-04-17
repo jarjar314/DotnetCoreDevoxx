@@ -20,6 +20,8 @@ En terme de temps voilà comment va se passer les 3h30 ensemble:
  * 20 minutes d'exercices 
  * 10 minutes de correction
 
+## Documentation 
+Dans ce dossier vous trouverez des liens vous aidant à accéder aux informations pour vous aider à faire ce workshop
 
 ## Façon de faire
 Dans chaque dossier "tutoriel" (sauf pour le premier) vous allez avoir:
@@ -28,7 +30,7 @@ Dans chaque dossier "tutoriel" (sauf pour le premier) vous allez avoir:
  * un pdf contenant les liens pour la correction
 
 ## Divers
-Si vous avez déjà familier avec le C# inutile de faire le tutoriel 2.
+Si vous avez déjà familié avec le C# inutile de faire le tutoriel 2.
 Pour réaliser ces travaux il va falloir vous basez avec la documentation fournie dans le workshop ou dans la rapide présentation faites en amont de chaque exercice. En cas de soucis contactez le speaker.
 
 Profitez bien de ce workshop et n'hésitez pas à me faire des retours sur mon adresse email plouiserre@gmail.com
