@@ -42,11 +42,11 @@ Documentation Microsoft :
 * https://docs.microsoft.com/fr-fr/aspnet/core/mvc/overview?view=aspnetcore-2.2
 * https://docs.microsoft.com/fr-fr/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-2.2&tabs=visual-studio
 
-##Appeler une API Rest avec HttpClient
+## Appeler une API Rest avec HttpClient
 Utilisation de la classe HttpClient : 
 * https://docs.microsoft.com/fr-fr/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client
 
-##Random 
+## Random 
 Pour gérer aléatoirement des nombres avec la classe Random : 
 * Documentation Microsoft : https://docs.microsoft.com/fr-fr/dotnet/api/system.random?view=netframework-4.7.2&viewFallbackFrom=netframework-
 * Réponse stackoverflow : https://stackoverflow.com/questions/2706500/how-do-i-generate-a-random-int-number
