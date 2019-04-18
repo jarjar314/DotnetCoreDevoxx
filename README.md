@@ -11,14 +11,14 @@ En terme de temps voilà comment va se passer les 3h30 ensemble:
  * 20 minutes présentant Dotnet Core 
  * 30 minutes d'installation  (tutoriel 1)
  * 30 minutes pour le pendu  (tutoriel 2)
- * 10 minutes pour corriger le pendu 
+ * 5 minutes pour corriger le pendu 
  * 10 minutes pour introduire les technologies utilisées dans la réalisation d'une API Rest en DotnetCore 
- * 15 minutes de pause
+ * 30 minutes de pause
  * 45 minutes pour faire l'API rest
- * 10 minutes de correction 
+ * 5 minutes de correction 
  * 10 minutes de présentation de la technologie dans la réalisatoin d'un site web client
  * 20 minutes d'exercices 
- * 10 minutes de correction
+ * 5 minutes de correction
 
 ## Documentation 
 Dans ce dossier vous trouverez des liens vous aidant à accéder aux informations pour vous aider à faire ce workshop
